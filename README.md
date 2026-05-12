@@ -1,6 +1,6 @@
 <h1>Implement Simple Hill Climbing Algorithm</h1> 
-<h3>NAME : KAAVIYA A            </h3>
-<h3>REGISTER NUMBER : 212224060111            </h3>
+<h3>NAME : GEETHALAKSHMI D            </h3>
+<h3>REGISTER NUMBER : 212224060079            </h3>
 <H3>AIM</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> THEORY</h2>
